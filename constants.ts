@@ -4,8 +4,8 @@ import { SocialLink, ProfileData } from './types';
 export const PROFILE_DATA: ProfileData = {
   name: "Lina Sole",
   tagline: "Model • Creator • Muse",
-  // Neutral flower image (White flower on dark background)
-  image: "https://images.unsplash.com/photo-1468327768560-75b778cbb551?q=80&w=600&auto=format&fit=crop",
+  // Elegant Lily Image to match pink aesthetic
+  image: "https://pic.dfans.co/w/1990834403269681152.webp",
   footerText: "© 2024 Lina Sole. All Rights Reserved."
 };
 
